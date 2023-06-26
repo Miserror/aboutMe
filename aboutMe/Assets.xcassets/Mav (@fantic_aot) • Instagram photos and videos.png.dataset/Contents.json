@@ -1,0 +1,13 @@
+{
+  "data" : [
+    {
+      "filename" : "photo.png.mht",
+      "idiom" : "universal",
+      "universal-type-identifier" : "org.ietf.mhtml"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
